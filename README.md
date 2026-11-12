@@ -21,27 +21,6 @@
 
 📝 Cheatsheets：容易忘记但又经常用到的命令速查表与排坑笔记。
 
-📂 目录结构 (Directory Structure)
-
-some-decent-skills/
-├── ai-skills/          # AI Agent 技能与提示词模板
-├── scripts/            # 自动化与日常效率脚本
-├── configs/            # 常用工具配置文件
-├── docs/               # 备忘录与使用指南
-└── README.md           # 就是你正在看的这个文件
-
-
-🚀 快速开始 (Getting Started)
-
-克隆仓库到本地：
-
-git clone https://github.com/Hejunlong/some-decent-skills.git
-cd some-decent-skills
-
-
-按需取用：
-进入对应的子目录，查看各自的说明文档并运行你需要的脚本或复制配置即可。
-
 🤝 贡献与交流 (Contributing)
 
 如果你也有一些“虽然不算完美但真的很好用”的技能、脚本或技巧，欢迎提交 Pull Request 或开 Issue 一起交流！
